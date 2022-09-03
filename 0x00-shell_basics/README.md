@@ -1,1 +1,1 @@
-Deleting betty from my first directory
+Moving back to the previous working directory
