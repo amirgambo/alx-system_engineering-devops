@@ -1,1 +1,1 @@
-moving a file from one directory to a sub-directory
+Deleting betty from my first directory
