@@ -1,1 +1,1 @@
-Print working dirctory command
+changes the working directory to the user’s home directory
