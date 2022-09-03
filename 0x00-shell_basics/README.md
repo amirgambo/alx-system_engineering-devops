@@ -1,1 +1,1 @@
-a script tha prints the name of a file iamafile
+How to create a symbolic link to a current working directory
