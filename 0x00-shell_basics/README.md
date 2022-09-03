@@ -1,1 +1,1 @@
-script to create a directory called my_first_directory
+moving a file from one directory to a sub-directory
