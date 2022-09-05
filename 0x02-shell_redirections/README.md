@@ -1,1 +1,1 @@
-A script that decodes acrostics that use the first letter of each line
+script that creates a file containing the text Best School ending by a new line
