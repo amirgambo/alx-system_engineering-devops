@@ -1,1 +1,1 @@
-A  script that displays all users and their home directories, sorted by users
+A script that creates a file containing the text Best School ending by a new line
