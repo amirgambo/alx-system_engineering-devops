@@ -1,1 +1,1 @@
-A shell script that creates a file containing the text Best School ending by a new line
+ A script that writes into a file the result of a command
