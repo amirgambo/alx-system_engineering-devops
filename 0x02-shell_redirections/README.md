@@ -1,1 +1,1 @@
-A script that display all lines of the file /etc/ssh/sshd_config starting with a letter
+A script that replaces all characters A and c from input to Z and e respectively
