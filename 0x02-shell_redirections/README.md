@@ -1,1 +1,1 @@
-A script that creates a file containing the text Best School ending by a new line
+A command that finds all empty files and directories in the current directory and all sub-directories
