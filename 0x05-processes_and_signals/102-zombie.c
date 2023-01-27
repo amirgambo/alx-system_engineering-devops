@@ -1,3 +1,8 @@
+/*
+ * File: 102-zombie.c
+ * Auth: Brennan D Baraban
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
@@ -35,7 +40,7 @@ int main(void)
 		{
 			printf("Zombie process created, PID: %d\n", pid);
 			sleep(1);
-			count++
+			count++;
 		}
 		else
 			exit(0);
