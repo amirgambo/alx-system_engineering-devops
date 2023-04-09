@@ -36,8 +36,8 @@ defaults
 
 listen www
         bind *:80
-        bind *:443 ssl crt /etc/haproxy/certs/www.arvicrin.tech.pem
+        bind *:443 ssl crt /etc/haproxy/certs/www.amirgambo.tech.pem
         http-request redirect scheme https unless { ssl_fc }
         balance roundrobin
-        server 20367-web-01 34.229.63.14:80 check
-        server 20367-web-02 100.27.49.144:80 check
+        server 137851-web-01 54.144.145.131:80 check
+        server 137851-web-02 54.173.86.133:80 check
