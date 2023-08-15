@@ -14,5 +14,5 @@ frontend clickviral-tech-frontend
     default_backend clickviral-tech-backend
 backend clickviral-tech-backend
     balance roundrobin
-    server 137851-web-01 54.144.145.131:80 check
-    server 137851-web-02 54.173.86.133:80 check
+    server 137851-web-01 54.144.147.171:80 check
+    server 137851-web-02 100.24.253.142:80 check
